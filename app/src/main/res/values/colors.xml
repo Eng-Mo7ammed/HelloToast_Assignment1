@@ -1,0 +1,10 @@
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="count_odd">#00C853</color>
+    <color name="count_even">#0000FF</color>
+    <color name="zero_inactive">#808080</color>
+    <color name="zero_active">#FF9800</color>
+</resources>
